@@ -1,0 +1,13 @@
+[tool]
+[tool.poetry]
+authors = ["Your Name <you@example.com>"]
+name = "root"
+version = "0.0.0"
+description = ""
+
+[tool.poetry.dependencies]
+python = "^3.8"
+matplotlib = "^3.6.2"
+numpy = "^1.24.1"
+pandas = "^1.5.2"
+scipy = "^1.9.3"
