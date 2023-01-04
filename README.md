@@ -1,3 +1,3 @@
 # Sea Level Predictor
 
-This is the boilerplate for the Sea Level Predictor project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor
+This is the boilerplate for the Sea Level Predictor project. The files have been downloaded form Replit site which was given to me to be worked on by FreeCodeCamp. I wrote my code in the 'sea_level_predictor.py'. code must be executed from 'main.py'. other than that i don't know whats the use of the other files.
